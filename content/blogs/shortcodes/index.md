@@ -4,6 +4,7 @@ weight: 6
 draft: true
 description: "A local preview page for checking Blowfish shortcodes against the custom palette."
 slug: "shortcodes"
+tags: ["shortcodes", "palette"]
 ---
 
 In addition to all the [default Hugo shortcodes](https://gohugo.io/content-management/shortcodes/), Blowfish adds a few extras for additional functionality.
