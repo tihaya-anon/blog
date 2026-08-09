@@ -68,12 +68,12 @@
 # the copyright notice. Configure as per the main menu above.
 
 
-[[footer]]
-  name = "About"
-  pageRef = "about"
-  weight = 10
+# [[footer]]
+#   name = "About"
+#   pageRef = "about"
+#   weight = 10
 
-[[footer]]
-  name = "Blogs"
-  pageRef = "blogs"
-  weight = 20
+# [[footer]]
+#   name = "Blogs"
+#   pageRef = "blogs"
+#   weight = 20
